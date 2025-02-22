@@ -1,5 +1,5 @@
 # LinkedIn-Post-Generator
-The LinkedIn Post Generator helps you to write LinkedIn post effortlessly. You are able to generate a post on certain topics with appropriate length and language.
+This is my hobby project. The LinkedIn Post Generator helps you to write LinkedIn post effortlessly. You are able to generate a post on certain topics with appropriate length and language.It is mainly used for influencers and professionals to discuss about a particular topic
 ## Features
 -> AI powered Content Generation
 -> General Topics are included
