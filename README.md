@@ -18,6 +18,6 @@ This is my hobby project. The LinkedIn Post Generator helps you to write LinkedI
 ### Special Thanks 
 - Codebasics :  For givinng valuable knoweledge and insights to build this project.
 ### Images
-- ![App Image](images/Screenshot 2025-02-22 123419.png "Screenshot 1")
+ ![App Image](images/Screenshot 2025-02-22 123419.png "Screenshot 1")
 
 
